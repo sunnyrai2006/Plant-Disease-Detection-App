@@ -1,5 +1,4 @@
 tensorflow==2.20.0
-numpy
-pillow
-streamlit
-gdown
+numpy==2.4.1
+pillow==12.1.0
+streamlit==1.26.1
