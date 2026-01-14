@@ -1,4 +1,9 @@
 tensorflow==2.20.0
-numpy==2.4.1
-pillow==12.1.0
+numpy==1.26.0
+pillow==10.0.0
 streamlit==1.26.1
+gdown
+rich==14.2.0
+markdown-it-py==4.0.0
+pygments==2.19.2
+mdurl==0.1.2
